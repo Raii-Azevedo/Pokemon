@@ -61,7 +61,7 @@ body {
 .stats {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     text-align: center;
 }
 .stats p {
