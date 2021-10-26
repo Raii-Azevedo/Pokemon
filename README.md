@@ -27,7 +27,7 @@
  
 ## Demo
 
-<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/PokemonCard.gif" align="left" height="350" width="550" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/PokemonCard.gif" align="left" height="350" width="600" ></a>
 
 
 
