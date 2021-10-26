@@ -2,7 +2,7 @@
 
 <a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/pokemon.png" align="left" height="550" width="300" ></a>
  
- - Um gerador de cartar Pokémon
+ - Um gerador de cartas Pokémon
  
  - A Pokémon card generator
 
