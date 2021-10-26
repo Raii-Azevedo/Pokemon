@@ -23,7 +23,10 @@
 
   - Repository: https://github.com/Raii-Azevedo/Pokemon
  
- 
+## Demo
+
+<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/PokemonCard.gif" align="left" height="250" width="450" ></a>
+
  
  
 ## Authors
