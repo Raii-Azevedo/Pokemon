@@ -1,6 +1,6 @@
 # Pokémon Card Generator
 
-<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/pokemon.png" align="left" height="550" width="300" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/pokemon.png" align="left" height="450" width="250" ></a>
  
  - Um gerador de cartas Pokémon
  
