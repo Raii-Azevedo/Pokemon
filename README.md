@@ -16,6 +16,7 @@
 - CSS
 - Bootstrap
 - JavaScript
+- PokeAPI
 
 
 ## Links
