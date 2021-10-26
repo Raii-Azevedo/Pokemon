@@ -8,7 +8,7 @@
 
 
 ## 🚀 How to use
-- Clique no botão "Generate" que o app irá randomicamente gerar um carta Pokémon.
+- Clique no botão "Generate" que o app irá randomicamente gerar uma carta Pokémon.
 - Click on the "Generate" button and the app will dynamically generate a Pokémon card.
 
 ## Ferramentas
