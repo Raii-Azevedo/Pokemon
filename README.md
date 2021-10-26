@@ -1,6 +1,6 @@
 # Pokémon Card Generator
 
-<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/pokemon.png" align="left" height="550" width="350" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/pokemon.png" align="left" height="350" width="250" ></a>
  
  - Um gerador de cartas Pokémon com HTML, CSS, Bootstrap e Javascrit que utiliza da PokeAPI para obtenção de dados de cada Pokémon.
  
@@ -27,7 +27,7 @@
  
 ## Demo
 
-<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/PokemonCard.gif" align="left" height="250" width="450" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/Pokemon/blob/master/assets/images/PokemonCard.gif" align="left" height="550" width="350" ></a>
 
 
 
