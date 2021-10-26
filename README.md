@@ -11,7 +11,7 @@
 - Clique no botão "Generate" que o app irá randomicamente gerar um carta Pokémon.
 - Click on the "Generate" button and the app will dynamically generate a Pokémon card.
 
-## Ferramenta 
+## Ferramentas
 - HTML
 - CSS
 - Bootstrap
